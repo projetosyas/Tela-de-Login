@@ -1,1 +1,1 @@
-https://github.com/projetosyas/Tela-de-Login.git
+https://projetosyas.github.io/Tela-de-Login/
